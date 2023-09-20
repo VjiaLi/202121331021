@@ -1,0 +1,13 @@
+datasketch @ file:///home/conda/feedstock_root/build_artifacts/datasketch_1694523905136/work
+jieba @ file:///home/conda/feedstock_root/build_artifacts/jieba_1622403007736/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1691577114857/work
+Levenshtein @ file:///D:/bld/levenshtein_1686416224480/work
+memory-profiler @ file:///home/conda/feedstock_root/build_artifacts/memory_profiler_1668586007832/work
+numpy @ file:///D:/bld/numpy_1694920151709/work/dist/numpy-1.26.0-cp39-cp39-win_amd64.whl#sha256=f78dfbf9fe29470ec55f11a1ef886380ee87c5796c196f346eca2471d135cf9e
+psutil @ file:///D:/bld/psutil_1681775298734/work
+pynndescent==0.5.7
+rapidfuzz @ file:///D:/bld/rapidfuzz_1681729844412/work
+scikit-learn @ file:///D:/bld/scikit-learn_1688116643055/work
+scipy==1.11.2
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1689261241048/work
+umap-learn==0.5.3

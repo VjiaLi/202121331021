@@ -31,7 +31,7 @@
 ```
 git clone https://github.com/VjiaLi/202121331021.git
 cd 202121331021
-pip install -r requirements.txt .
+pip install -r requirements.txt
 ```
 
 但是如果仅仅只是想要完成作业:
